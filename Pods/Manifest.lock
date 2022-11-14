@@ -1,0 +1,28 @@
+PODS:
+  - CHTCollectionViewWaterfallLayout (0.9.10):
+    - CHTCollectionViewWaterfallLayout/Swift (= 0.9.10)
+  - CHTCollectionViewWaterfallLayout/Swift (0.9.10)
+  - Realm (10.32.2):
+    - Realm/Headers (= 10.32.2)
+  - Realm/Headers (10.32.2)
+  - RealmSwift (10.32.2):
+    - Realm (= 10.32.2)
+
+DEPENDENCIES:
+  - CHTCollectionViewWaterfallLayout
+  - RealmSwift (~> 10)
+
+SPEC REPOS:
+  trunk:
+    - CHTCollectionViewWaterfallLayout
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  CHTCollectionViewWaterfallLayout: b989a459788d7657ac010e03bc0f7eedca95a420
+  Realm: a11d133606e898ee43ddd3c24050a382c8d3eab1
+  RealmSwift: f796f7701a5efa031554d5639ef5b2d4c850bc74
+
+PODFILE CHECKSUM: 50eb10b3b7580874a1cf606550527d4bc9b74b56
+
+COCOAPODS: 1.11.3
